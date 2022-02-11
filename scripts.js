@@ -16,3 +16,5 @@ function main(x){
 
 let x = 1;
 console.log(`Result ${main(x)}`)
+
+//Basic Data Types
